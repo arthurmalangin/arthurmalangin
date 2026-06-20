@@ -1,3 +1,3 @@
-- 👨‍🎓 Student [@ 42School](https://github.com/42School)
+- 👨‍🎓 Alumni [@ 42School](https://github.com/42School)
 - 🙋‍♂️ **$> Who i'am:** Passionate developer.
 - 🍊 **I like orange**
